@@ -4,9 +4,11 @@
 
 University of Toronto
 
-> Giovanni Room
-> Chestnut Conference Centre
-> 89 Chestnut St, Toronto, ON M5G 1R1, Canada
+```
+Giovanni Room
+Chestnut Conference Centre
+89 Chestnut St, Toronto, ON M5G 1R1, Canada
+```
 
 ---
 
