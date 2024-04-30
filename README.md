@@ -22,6 +22,7 @@ Sessions will focus on themes that span all three communities including challeng
 
 
   * [confrence website](https://www.dunlap.utoronto.ca/hotwired7/)
+  * [conference slack](https://join.slack.com/t/hotwired7/shared_invite/zt-2hdrgre10-JHnQdCNofoRti_j1xJQBWA)
   * [block schedule](https://drive.google.com/file/d/1G5UBxk5l6uJ19wzoF1LyHQFI6e3Q95l3/view)
   * [detailed program](https://drive.google.com/file/d/15KPsaqmYQ-WojKXrZy_rGjbQTxHip-pF/view)
   * [posters](https://drive.google.com/file/d/14BswbXLdm_2rlOYaQ5W6FfU42G3rlwai/view)
